@@ -43,7 +43,7 @@ var users = [
     gender: "M"
   },
   {
-    id: 3,
+    id: 4,
     name: "Faith",
     age: "23",
     gender: "F"
@@ -53,7 +53,13 @@ var users = [
     name: "Joy",
     age: "25",
     gender: "F"
-  }
+  },
+  {
+    id: 6,
+    name: "Vira",
+    age: "2",
+    gender: "F"
+  },
 ];
 
 var getUser = function(args) {
